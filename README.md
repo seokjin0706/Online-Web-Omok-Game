@@ -22,3 +22,4 @@ JSP + MVC 패턴 + WebSocket을 사용한 온라인 웹 오목 대국 게임입�
 1. Jsp / Servlet
 2. HTML/CSS/JavaScript
 3. WebSocket
+4. MySQL
