@@ -1,0 +1,20 @@
+@charset "EUC-KR";
+canvas {border: 1px solid black;}
+
+.wrapper  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ 
+.inner-wrapper  {
+    display: flex;
+    
+  } 
+
+.inner-board-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
