@@ -3,6 +3,9 @@ JSP + MVC 패턴 + WebSocket을 사용한 온라인 웹 오목 대국 게임입�
 
 # 주요 화면
 
+![image](https://user-images.githubusercontent.com/46406119/205305339-22cb9ec1-4427-4594-b98e-b81ac50fc60a.png)
+
+
 
 # 주요 기능
 1. 회원가입
