@@ -20,7 +20,5 @@ JSP + MVC 패턴 + WebSocket을 사용한 온라인 웹 오목 대국 게임입�
 
 # 사용된 기술 및 도구
 1. Jsp / Servlet
-2. WebSocket
-3. HTML/CSS/JavaScript
-4. apache tomcat9.0
-5. eclipse
+2. HTML/CSS/JavaScript
+3. WebSocket
